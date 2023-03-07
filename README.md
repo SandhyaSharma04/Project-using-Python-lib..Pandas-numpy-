@@ -1,5 +1,5 @@
 # Project on Spotify data 
-These are data analysis projects that I've worked on using Exploratory Data Analysis (EDA) using Python  Here is the url:https://github.com/Sandy04Rana/Project-using-Python-lib..Pandas-numpy-/commit/ada9ac8efbf664f834c59954c42de110d43c5d64 
+These are data analysis projects that I've worked on using Exploratory Data Analysis (EDA) using Python.
 
 # Row data
 Row data url:https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
