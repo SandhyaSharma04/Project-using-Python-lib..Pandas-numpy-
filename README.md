@@ -1,8 +1,8 @@
 # Project on Spotify data 
 These are data analysis projects that I've worked on using Exploratory Data Analysis (EDA) using Python.
 
-# Row data
-Row data url:https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
+# Raw data
+Raw data url:https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
 
 # Featured
 Spotify Analysis implemented Exploratory data analysis (EDA) using Python. Used chart trends to find the realationship between them and trends etc. I completed this project as part of an online data analyst course.
